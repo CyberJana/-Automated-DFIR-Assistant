@@ -1,0 +1,21 @@
+Oct 10 08:55:01 web01 sshd[2101]: Accepted publickey for deploy from 198.51.100.20 port 40122 ssh2
+Oct 10 09:00:01 web01 CRON[3001]: pam_unix(cron:session): session opened for user root(uid=0) by (uid=0)
+Oct 10 09:01:10 web01 sshd[2140]: Failed password for root from 203.0.113.50 port 51001 ssh2
+Oct 10 09:01:18 web01 sshd[2141]: Failed password for invalid user admin from 203.0.113.50 port 51002 ssh2
+Oct 10 09:01:27 web01 sshd[2142]: Failed password for ubuntu from 203.0.113.50 port 51003 ssh2
+Oct 10 09:01:36 web01 sshd[2143]: Failed password for root from 203.0.113.50 port 51004 ssh2
+Oct 10 09:01:44 web01 sshd[2144]: Failed password for invalid user test from 203.0.113.50 port 51005 ssh2
+Oct 10 09:02:03 web01 sshd[2145]: Failed password for oracle from 203.0.113.50 port 51006 ssh2
+Oct 10 09:02:15 web01 sshd[2146]: Failed password for postgres from 203.0.113.50 port 51007 ssh2
+Oct 10 09:02:30 web01 sshd[2147]: Failed password for alice from 203.0.113.50 port 51008 ssh2
+Oct 10 09:06:30 web01 sshd[2160]: Accepted password for alice from 203.0.113.50 port 51009 ssh2
+Oct 10 09:06:31 web01 sshd[2160]: pam_unix(sshd:session): session opened for user alice(uid=1001) by (uid=0)
+Oct 10 09:09:05 web01 sudo:    alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=/bin/bash
+Oct 10 09:09:40 web01 sudo:    alice : TTY=pts/0 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/crontab -l
+Oct 10 09:20:01 web01 sshd[2301]: Invalid user admin2 from 203.0.113.60 port 40011
+Oct 10 09:20:03 web01 sshd[2302]: Invalid user guest from 203.0.113.60 port 40012
+Oct 10 09:20:05 web01 sshd[2303]: Invalid user backup from 203.0.113.60 port 40013
+Oct 10 09:20:08 web01 sshd[2304]: Invalid user jenkins from 203.0.113.60 port 40014
+Oct 10 09:20:10 web01 sshd[2305]: Invalid user pi from 203.0.113.60 port 40015
+Oct 10 09:20:14 web01 sshd[2306]: Invalid user www from 203.0.113.60 port 40016
+Oct 10 10:15:00 web01 sshd[2400]: Accepted publickey for deploy from 198.51.100.20 port 40200 ssh2
